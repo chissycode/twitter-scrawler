@@ -1,5 +1,5 @@
 # twitter_scrawler
-crawling tweet text from specific userid
+crawling tweet text with specific userid
 
 dataset: https://github.com/sidooms/MovieTweetings
 
