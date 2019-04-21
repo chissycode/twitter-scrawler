@@ -3,5 +3,5 @@ crawling tweet text with specific userid
 
 dataset: https://github.com/sidooms/MovieTweetings
 
-::userid::\n
+::num::userid::\n
 tweet_text\n
